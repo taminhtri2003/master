@@ -1,0 +1,14 @@
+# Core Image and Data Processing
+numpy
+opencv-python-headless  
+scikit-image 
+scipy
+
+# Visualization
+matplotlib
+
+# Machine Learning
+tensorflow
+
+# Web Application (Streamlit)
+streamlit
